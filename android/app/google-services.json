@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56249056037",
+    "firebase_url": "https://sportbabe-a348c.firebaseio.com",
+    "project_id": "sportbabe-a348c",
+    "storage_bucket": "sportbabe-a348c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56249056037:android:2a1ae4fbdf236920cd78cc",
+        "android_client_info": {
+          "package_name": "com.example.sportbabe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56249056037-rak914v78h5r9mk7b5al7eqk89nrr12k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportbabe",
+            "certificate_hash": "7bade9ebc28e526e20f5ed9781ae1fdaf07983d9"
+          }
+        },
+        {
+          "client_id": "56249056037-rp2vrf7qhe4t4jb57g7d2ps487fakutq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBov-Ze_hDmY2xB9VzSjfl5xv-c7BP_KhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56249056037-rp2vrf7qhe4t4jb57g7d2ps487fakutq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
